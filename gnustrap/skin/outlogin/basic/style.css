@@ -1,0 +1,7 @@
+@charset "utf-8";
+#ol_before a{font-size:12px;}
+#ol_after a{font-size:12px;}
+div .ol_top {margin-bottom:15px;}
+div .ol_center {margin-bottom:15px;}
+div .ol_auto {float:right; margin-top: -8px;}
+div .ol_login button{width:100%; margin-top:5px;}

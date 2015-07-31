@@ -1,0 +1,4 @@
+#poll .panel-default {margin:10px;}
+#poll .panel-body {background:#fff; border:1px solid #000; }
+#poll .list-unstyled {color:#000;}
+#poll ul.list-unstyled li {text-align: left; padding:5px; font-weight:normal;}

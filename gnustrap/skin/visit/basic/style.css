@@ -1,0 +1,4 @@
+#visit .panel-default {margin:10px;}
+#visit .panel-body {background:#fff; border:1px solid #000; }
+#visit .list-unstyled {color:#000;}
+#visit ul.list-unstyled li {text-align: left; padding:5px; font-weight:normal;}

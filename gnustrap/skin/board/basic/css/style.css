@@ -1,0 +1,36 @@
+/* 내용 간격 초기화 */
+#bo_v_con p {margin:0}
+section #bo_v_atc p {margin:0}
+
+/* 카테고리 */
+#bo_cate_ul li {padding: 10px 0;}
+#bo_cate_ul li a{
+border-radius: 5px;
+padding: 5px 10px;
+border: 1px solid #ddd;}
+#bo_cate_on {font-weight: bold;
+border-radius: 5px;
+padding: 5px 10px;
+border: 1px solid #ddd;
+}
+
+/* 게시판 목록 */
+#bo_list .td_board {vertical-align: middle; width:120px;text-align:center}
+#bo_list .td_chk {vertical-align: middle; width:30px;text-align:center}
+#bo_list .td_date {vertical-align: middle; width:70px;text-align:center}
+#bo_list .td_datetime {vertical-align: middle; width:110px;text-align:center}
+#bo_list .td_group {vertical-align: middle; width:100px;text-align:center}
+#bo_list .td_mb_id {vertical-align: middle; width:100px;text-align:center}
+#bo_list .td_mng {vertical-align: middle; width:80px;text-align:center}
+#bo_list .td_name {vertical-align: middle; width:150px; text-align:center;}
+#bo_list .td_nick {vertical-align: middle; width:100px;text-align:center}
+#bo_list .td_num {vertical-align: middle; width:50px;text-align:center}
+#bo_list .td_numbig {vertical-align: middle; width:60px;text-align:center}
+#bo_list .td_subject {vertical-align: middle;}
+
+/* 공지사항 */
+.bo_notice {font-weight: bold; background: #FFFFE4;}
+
+/* 게시물 마우스 오버시 배경 */
+
+.panel-body tbody tr:hover {background: #FAFAFA;} 

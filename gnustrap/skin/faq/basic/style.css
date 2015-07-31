@@ -1,0 +1,17 @@
+
+
+/* 카테고리 */
+#bo_cate_ul li {padding: 10px 0;}
+#bo_cate_ul li a{
+border-radius: 5px;
+padding: 5px 10px;
+border: 1px solid #ddd;}
+#bo_cate_on {font-weight: bold;
+border-radius: 5px;
+padding: 5px 10px;
+border: 1px solid #ddd;}
+
+/* 게시판 목록 */
+#faq_wrap {font-size:14px;}
+#faq_wrap p{margin:0}
+#accordion {margin-bottom:5px}

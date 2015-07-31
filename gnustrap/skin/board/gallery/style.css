@@ -1,0 +1,26 @@
+/* 내용 간격 초기화 */
+#bo_v_con p {margin:0}
+section #bo_v_atc p {margin:0}
+
+/* 카테고리 */
+#bo_cate_ul li {padding: 10px 0;}
+#bo_cate_ul li a{
+border-radius: 5px;
+padding: 5px 10px;
+border: 1px solid #ddd;}
+#bo_cate_on {font-weight: bold;
+border-radius: 5px;
+padding: 5px 10px;
+border: 1px solid #ddd;
+}
+
+/*갤러리 */
+#gall_ul .thumbnail hover{ border:2px solid 555;}
+#gall_ul .gall_href {border:1px solid #ddd; font-size: 47px; padding: 40px 0;}
+#gall_ul .namecard {margin-top: -24px;}
+#gall_ul i.notice {font-size:83px;}
+#gall_ul .good {position: absolute; top: 35px; right: 30px;}
+
+/* 모바일에서 회원아이콘 안보이게 */
+#bo_list .user img {display: none;}
+#gall_ul .user img {display: none;}
